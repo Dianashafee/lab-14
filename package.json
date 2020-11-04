@@ -1,0 +1,24 @@
+{
+  "name": "lab-14",
+  "version": "1.0.0",
+  "description": "## Estimate of time needed to complete: _____",
+  "main": "index.js",
+  "dependencies": {
+    "init": "^0.1.2",
+    "pg": "^8.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dianashafee/lab-14.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dianashafee/lab-14/issues"
+  },
+  "homepage": "https://github.com/Dianashafee/lab-14#readme"
+}
